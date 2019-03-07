@@ -1,0 +1,10 @@
+java
+programming 
+initialise 
+constructor 
+method 
+object 
+class 
+static 
+compiler 
+indentation
